@@ -1,0 +1,36 @@
+.br-sideleft{
+    padding-left: 0;
+    padding-right: 0;
+};
+.table-responsive > .table-bordered{
+    margin: 0;
+};
+
+.padding-5{
+    padding: 25px;
+};
+.action-bar{
+    text-align: center;
+}
+
+.action-bar ul{
+    padding: 0;
+    
+}
+.action-bar ul li {
+    list-style: none;
+    display: inline;
+    margin: 0 5px;
+  
+}
+.action-bar ul li .fa-edit{
+    color: green;
+    
+    
+}
+.action-bar ul li .fa-trash{
+    color: red;
+}
+.table-image{
+    width: 35px;
+}
